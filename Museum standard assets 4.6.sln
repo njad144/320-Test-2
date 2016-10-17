@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museum standard assets 4.6.CSharp", "Museum standard assets 4.6.CSharp.csproj", "{A83097A3-85C3-24FD-530E-CC3FDB8B3AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museum standard assets 4.6.CSharp.Editor", "Museum standard assets 4.6.CSharp.Editor.csproj", "{8F3C3C94-79FB-9BEA-7FBB-C6747A6BF39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83097A3-85C3-24FD-530E-CC3FDB8B3AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83097A3-85C3-24FD-530E-CC3FDB8B3AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83097A3-85C3-24FD-530E-CC3FDB8B3AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83097A3-85C3-24FD-530E-CC3FDB8B3AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3C3C94-79FB-9BEA-7FBB-C6747A6BF39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3C3C94-79FB-9BEA-7FBB-C6747A6BF39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3C3C94-79FB-9BEA-7FBB-C6747A6BF39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3C3C94-79FB-9BEA-7FBB-C6747A6BF39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
